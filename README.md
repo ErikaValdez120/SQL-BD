@@ -1,2 +1,2 @@
 # SQL-BD
-Cursi de EducacionIT con MySQL
+Curso y ejercicios practicos de EducacionIT con MySQL
